@@ -49,10 +49,7 @@ cf. Example primer set: A519F (5’‐CAGCMGCCGCGGTAA‐3′), U2428R (5’-CCRA
 
 <br><br>
 ## 🔍 Database Download
-The original MIrROR v.2.0 database and .mmi files can be downloaded from the following source:
-```
-Lee, J., Cho, S., & Kim, H. MIrROR (2.0) [Data set]. (2025). https://doi.org/10.5281/zenodo.14603319
-```
+You can download the original MIrROR v.2.0 database and Minimap2 index (.mmi) files from [Zenodo](https://doi.org/10.5281/zenodo.14603319).
 
 <br><br>
 ## 📖 Example Output
