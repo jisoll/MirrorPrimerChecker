@@ -50,7 +50,9 @@ cf. Example primer set: A519F (5’‐CAGCMGCCGCGGTAA‐3′), U2428R (5’-CCRA
 <br><br>
 ## 🔍 Database Download
 The original MIrROR v.2.0 database and .mmi files can be downloaded from the following source:
+```
 Lee, J., Cho, S., & Kim, H. MIrROR (2.0) [Data set]. (2025). https://doi.org/10.5281/zenodo.14603319
+```
 
 <br><br>
 ## 📖 Example Output
@@ -104,4 +106,8 @@ Martijn, Joran, et al. "Confident phylogenetic identification of uncultured prok
 
 <br><br>
 ## 📢 License
-This project is open-source. Modify and use as needed!
+- Research and non-commercial use allowed.
+- When using in conjunction with the MIrROR database, please include the following citation:
+```
+Lee, J., Cho, S., & Kim, H. MIrROR (2.0) [Data set]. (2025). https://doi.org/10.5281/zenodo.14603319
+```
