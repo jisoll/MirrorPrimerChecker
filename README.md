@@ -20,13 +20,19 @@ pip install pandas
 ## 🚀 Usage
 ### Run the script with:
 
+ 1️⃣ Download & Extract the Database
 ```sh
-python main.py <forward_primer> <reverse_primer> --db_path <database.tsv> --output_dir <output_directory>
+tar -xvzf MIrROR_DB_v2_PrimerChecker.txt.tar.gz
 ```
 
-### Example:
+ 2️⃣ Run thd Script
 ```sh
-python main.py CAGCMGCCGCGGTAA CCRAMCTGTCTCACGACG --db_path database.tsv --output_dir results
+python main.py <forward_primer> <reverse_primer> --db_path <database.txt> --output_dir <output_directory>
+```
+
+ * Example:
+```sh
+python main.py CAGCMGCCGCGGTAA CCRAMCTGTCTCACGACG --db_path MIrROR_DB_v2_PrimerChecker.txt --output_dir results
 ```
 cf. Example primer set: A519F (5’‐CAGCMGCCGCGGTAA‐3′), U2428R (5’-CCRAMCTGTCTCACGACG-3′)
 <br><br>
